@@ -1,4 +1,4 @@
-n = 5
+n = 4
 
 # Upper half
 for i in range(n):
