@@ -1,5 +1,4 @@
-n = 4
-
+n = 3
 # Upper half
 for i in range(n):
     for j in range(n - i - 1):
