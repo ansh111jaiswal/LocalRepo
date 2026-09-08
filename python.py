@@ -1,5 +1,5 @@
 print("Hello ANSH")
-a = 2
+a = 18
 b = 99
 c = a+b
 print(c)
